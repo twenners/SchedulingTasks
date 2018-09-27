@@ -1,0 +1,9 @@
+scheduledTasks:
+  send-task-fixedRate: 10000
+  recieve-task-fixedRate: 10000  
+  
+activemq:
+  broker-url: tcp://localhost:61616
+   
+  queue: message.queue
+
